@@ -16,7 +16,7 @@
 title: Jim's blog
 email: 15313378670@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about lots of things
+  A blog about lots of things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
@@ -25,6 +25,7 @@ github_username:  jimmieliu
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+# theme: minima
 plugins:
   - jekyll-feed
 
