@@ -25,8 +25,8 @@ github_username:  jimmieliu
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-cayman
-theme: Cayman
-# theme: minima
+# theme: Cayman
+theme: minima
 plugins:
   - jekyll-feed
 
