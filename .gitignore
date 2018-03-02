@@ -1,4 +1,5 @@
 _site
+_posts/template
 myblog
 .sass-cache
 .jekyll-metadata
