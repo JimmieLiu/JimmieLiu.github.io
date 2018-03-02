@@ -28,7 +28,7 @@ This post will be updated progressively...
   - todo: 什么操作下会finalize graph, with control_dependencies?
 
 
-===
-以上经验是我在项目中遇到的，有待解决和未解决的。因为个人精力有限，仅做问题记录和经验记录。您若有更好的诠释，欢迎提交修改。
-Above questions and solutions are merely a simple record of what i encountered during projects. Pls submit edition if you have better explainations.
+---
+*以上经验是我在项目中遇到的，有待解决和未解决的。因为个人精力有限，仅做问题记录和经验记录。您若有更好的诠释，欢迎提交修改。
+Above questions and solutions are merely a simple record of what i encountered during projects. Pls submit edition if you have better explainations.*
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 date=`date +"%Y-%m-%d"`
-ts=`date +"%Y-%m-%d %H:%M:%S"`
+ts=`date +"%Y-%m-%d %H:%M:%S -0800"`
 
 # parse args
 if test $# -eq 0; then
@@ -16,7 +16,7 @@ use_template=$1
 # default configs
 dft_category=thoughts
 template=_post/empty_template
-empty_post="--- \nlayout: post \ntitle:  ${title//-/ } \ndate:   $ts \ncategories: $dft_category \n---"
+empty_post="--- \nlayout: post \ntitle:  \"${title//-/ }\" \ndate:   $ts \ncategories: $dft_category \n---"
 echo $empty_post
 # init post
 new_post=_posts/${date}-${title}.markdown
