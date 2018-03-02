@@ -1,7 +1,7 @@
 --- 
 layout: post 
-title: TensorFlow一些经验 
-date: 2018-03-02 10:46:33 
+title: "TensorFlow一些经验"
+date: 2018-03-02 10:46:33 -0800
 categories: thoughts 
 ---
 This post will be updated progressively...
